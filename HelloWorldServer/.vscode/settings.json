@@ -1,0 +1,4 @@
+{
+  "appService.deploySubpath": "bin\\Debug\\netcoreapp2.1\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/65ac0248-5a80-488b-9174-9983f08abcaf/resourceGroups/appsvc_rg_windows_centralus/providers/Microsoft.Web/sites/arnes-hello-world"
+}
