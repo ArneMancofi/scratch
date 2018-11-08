@@ -1,0 +1,14 @@
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\bin\Debug\netcoreapp2.1\HelloWorldServer.deps.json
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\bin\Debug\netcoreapp2.1\HelloWorldServer.runtimeconfig.json
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\bin\Debug\netcoreapp2.1\HelloWorldServer.runtimeconfig.dev.json
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\bin\Debug\netcoreapp2.1\HelloWorldServer.dll
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\bin\Debug\netcoreapp2.1\HelloWorldServer.pdb
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\obj\Debug\netcoreapp2.1\HelloWorldServer.csprojAssemblyReference.cache
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\obj\Debug\netcoreapp2.1\HelloWorldServer.csproj.CoreCompileInputs.cache
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\obj\Debug\netcoreapp2.1\HelloWorldServer.RazorAssemblyInfo.cache
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\obj\Debug\netcoreapp2.1\HelloWorldServer.RazorAssemblyInfo.cs
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\obj\Debug\netcoreapp2.1\HelloWorldServer.AssemblyInfoInputs.cache
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\obj\Debug\netcoreapp2.1\HelloWorldServer.AssemblyInfo.cs
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\obj\Debug\netcoreapp2.1\HelloWorldServer.RazorTargetAssemblyInfo.cache
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\obj\Debug\netcoreapp2.1\HelloWorldServer.dll
+C:\Users\ArneGlenstrup\Projects\scratch\HelloWorldServer\obj\Debug\netcoreapp2.1\HelloWorldServer.pdb
