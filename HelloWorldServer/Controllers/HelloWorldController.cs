@@ -20,6 +20,7 @@ namespace TodoApi.Controllers
         // Create a new PensionCompany if collection is empty,
         // which means you can't delete all PensionCompanies.
         _context.PensionCompanies.Add(new PensionCompany { Name = "PlatinPension" });
+        _context.PensionCompanies.Add(new PensionCompany { Name = "BedreEndIngen Pension" });
         _context.SaveChanges();
       }
     }

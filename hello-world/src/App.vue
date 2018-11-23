@@ -37,7 +37,7 @@
           <v-flex text-xs-center>
             <v-list v-for="company in companies" :key="company.id">
               <v-list-tile>
-                {{ company.name }}
+                Name: {{ company.name }}
               </v-list-tile>
             </v-list>
             <v-list v-for="error in errors" :key="error">
